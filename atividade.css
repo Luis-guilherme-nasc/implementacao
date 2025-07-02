@@ -1,0 +1,21 @@
+.body {
+    background-color: blue;
+    border: 50px solid blue;
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+}
+.cont {
+    background-color: aliceblue;
+}
+.grid {
+    margin-top: 20px;
+}
+.rodape {
+    background-color: blue;
+    border: 10px solid blue;
+}
+.txt{
+    color: aliceblue;
+    font-size: 20px;
+}
